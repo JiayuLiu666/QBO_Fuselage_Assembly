@@ -61,10 +61,6 @@ python multi_init_cumulative_regret.py  # full multi-seed run (IBM hardware only
 
 The real-hardware scripts use `qiskit_ibm_runtime.QiskitRuntimeService()`, which needs a saved IBM Quantum account with QPU access.
 
-## Further reading
-
-- `CLAUDE.md`: algorithm details, script map, results layout, and known issues
-- `docs/analyze_discrete_README.md`, `docs/result_README.md`, `docs/hyperparameter_sweep_results.md`, `simulation_study/README.md`: descriptions of the analyses
 
 ## Citation
 
