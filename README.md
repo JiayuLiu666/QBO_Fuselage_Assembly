@@ -19,7 +19,7 @@ Research code comparing classical safe-set Bayesian optimization (BO) with a qua
 | `scripts/` | Shell driver for the force-range experiments |
 | `legacy/` | Superseded, broken, or one-off scripts, kept for reference (see `legacy/README.md`) |
 
-**Not included:** the continuous-space results (about 8 GB: `Experiments_constraint_continuous*/`, `Experiments_unconstraint_continuous/`) and older result folders. The continuous-run notebooks and compare scripts need those folders at the repository root. The discrete-grid results (`Experiments_constraints/`), the generated figures (`figures/`) and the simulation-study result files were removed from the repository on 2026-09-25; they are in the history up to commit `c5a1b8f` (`git checkout c5a1b8f -- Experiments_constraints figures simulation_study`).
+**Not included:** the continuous-space results (about 8 GB: `Experiments_constraint_continuous*/`, `Experiments_unconstraint_continuous/`) and older result folders. The continuous-run notebooks and compare scripts need those folders at the repository root. The discrete-grid results (`Experiments_constraints/`).
 
 ## Setup
 
